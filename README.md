@@ -9,7 +9,12 @@ NLP-блок курса "Практический анализ данных" (Ф
 **Занятие 2**
 - Word embeddings [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_02/Word_embeddings.ipynb)
 - Тематическое моделирование [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_02/Topic_modeling.ipynb)
-- Синтаксический парсинг [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master//sem_02/Syntax.ipynb)
+- Синтаксический парсинг [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_02/Syntax.ipynb)
+
+
+**ДЗ 1**
+Классификация новостей [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/HW/hw_1_lenta.ipynb)
+Соревнование: https://www.kaggle.com/c/lenta-news-classification
 
 **Занятие 3**
 - Языковые модели
