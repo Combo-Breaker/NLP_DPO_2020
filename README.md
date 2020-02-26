@@ -14,6 +14,7 @@ NLP-блок курса "Практический анализ данных" (Ф
 
 **ДЗ 1**
 Классификация новостей [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/HW/hw_1_lenta.ipynb)
+
 Соревнование: https://www.kaggle.com/c/lenta-news-classification
 
 **Занятие 3**
