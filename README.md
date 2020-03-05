@@ -9,7 +9,7 @@ NLP-блок курса "Практический анализ данных" (Ф
 **Занятие 2**
 - Word embeddings [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_02/Word_embeddings.ipynb)
 - Тематическое моделирование [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_02/Topic_modeling.ipynb)
-- Синтаксический парсинг [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_02/Syntax.ipynb)
+
 
 
 **ДЗ 1**
@@ -18,11 +18,13 @@ NLP-блок курса "Практический анализ данных" (Ф
 Соревнование: https://www.kaggle.com/c/lenta-news-classification
 
 **Занятие 3**
-- Языковые модели
-- Генерация текста
-- Transformer-based архитектуры
+- Синтаксический парсинг [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_02/Syntax.ipynb)
+- Классификация с помощью CNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_03/language_models.ipynb)
+- Языковые модели и генерация текста [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_03/classification.ipynb)
+
 
 **Занятие 4** 
+- Transformer-based архитектуры
 - seq2seq задачи (машинный перевод, нормализация) 
 - Извлечение именованных сущностей 
 - POS-теггинг
