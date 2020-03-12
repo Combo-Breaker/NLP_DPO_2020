@@ -24,7 +24,10 @@ NLP-блок курса "Практический анализ данных" (Ф
 
 
 **Занятие 4** 
-- Transformer-based архитектуры
-- seq2seq задачи (машинный перевод, нормализация) 
+- Transformer-based архитектуры [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_04/transformer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_04/fastai.ipynb)
+- seq2seq задачи (машинный перевод, нормализация) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_04/seq2seq.ipynb)
 - Извлечение именованных сущностей 
 - POS-теггинг
+
+
