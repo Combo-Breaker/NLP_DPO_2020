@@ -17,12 +17,11 @@ NLP-блок курса "Современный анализ данных" (ФК
 Соревнование: https://www.kaggle.com/c/lenta-news-classification
 
 
-**Занятие 3: Снижение размерности в NLP. Тематические моделирование. Синтаксический парсинг. **
+**Занятие 3: Снижение размерности в NLP. Тематические моделирование. Синтаксический парсинг.**
 - Тематическое моделирование [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_02/Topic_modeling.ipynb)
 - Синтаксический парсинг [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_02/Syntax.ipynb)
 
-**Занятие 4: 
-Языковые модели. Статистические и нейронные языковые модели** 
+**Занятие 4: Языковые модели. Статистические и нейронные языковые модели.** 
 
 - Языковые модели и генерация текста [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_03/classification.ipynb)
 - Transformer-based архитектуры [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_04/transformer.ipynb)
