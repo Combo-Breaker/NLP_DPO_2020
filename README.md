@@ -1,4 +1,4 @@
-NLP-блок курса "Практический анализ данных" (ФКН НИУ ВШЭ), 2020
+NLP-блок курса "Современный анализ данных" (ФКН НИУ ВШЭ), 2020
 
 **Занятие 1: Введение в автоматическую обработку текстов. Частотный анализ. Морфологический анализ.**  
 - Вводная лекция, препроцессинг текста [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_01/1.%20Intro.ipynb)
