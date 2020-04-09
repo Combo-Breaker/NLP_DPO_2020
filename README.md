@@ -2,7 +2,7 @@ NLP-блок курса "Современный анализ данных" (ФК
 
 **Занятие 1: Введение в автоматическую обработку текстов. Частотный анализ. Морфологический анализ.**  
 - Вводная лекция, препроцессинг текста [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_01/1.%20Intro.ipynb)
-- Препроцессинг текста + анализ тональности [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Combo-Breaker/NLP_DPO_2020/blob/master/sem_01/1.%20Preprocessing%20and%20Sentiment%20Analysis.ipynb)
+- Препроцессинг текста + анализ тональности [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/Combo-Breaker/NLP_DPO_2020/blob/master/sem_01/1.%20Preprocessing%20and%20Sentiment%20Analysis.ipynb)
 - Регулярные выражения [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_01/1.%20Regex%20in%20Python.ipynb)
 
 
