@@ -9,7 +9,7 @@ NLP-блок курса "Современный анализ данных" (ФК
 **Занятие 2: Дистрибутивная семантика. Модели word2vec и fastText. Классификация текстов.**
 
 - Word embeddings [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_02/Word_embeddings.ipynb)
-- Классификация с помощью CNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_03/language_models.ipynb)
+- Классификация с помощью CNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_03/classification.ipynb)
 
 **ДЗ 1**
 Классификация новостей [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/HW/hw_1_lenta.ipynb)
