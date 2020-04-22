@@ -12,7 +12,7 @@ NLP-блок курса "Современный анализ данных" (ФК
 - Классификация с помощью CNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/sem_03/classification.ipynb)
 
 **ДЗ 1**
-Классификация новостей [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/HW/hw_1_lenta.ipynb)
+Классификация  новостей [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Combo-Breaker/NLP_DPO_2020/blob/master/HW/hw_1_lenta.ipynb)
 
 Соревнование: https://www.kaggle.com/c/lenta-classification-2020/
 
